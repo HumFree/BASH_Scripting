@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author:
+# Author: Christopher Humphrey
 
 # Script to backup files.
 
